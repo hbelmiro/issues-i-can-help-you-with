@@ -6,7 +6,7 @@ This is a repository for issues I'm involved with that are good for people who w
 
 Just open a PR with the fix and add `@hbelmiro` (me) as a reviewer.
 
-If you prefer to validate your solution before sending the PR, [send me a message](https://thegreatapi.com/social-media/) telling your plans.
+If you prefer to validate your solution before sending the PR, [send me a message](https://thegreatapi.com/social-media/) telling me about your plans.
 
 ## Good First Issues
 
