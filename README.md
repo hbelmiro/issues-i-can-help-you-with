@@ -14,7 +14,7 @@ These issues are good for people who have never contributed to the project the i
 
 ### Project: [hbelmiro / 100DaysOfJava](https://github.com/hbelmiro/100DaysOfJava)
 
-* [Java | Asciidoc] [Add info/website for 3rd party libraries](https://github.com/hbelmiro/100DaysOfJava/issues/2) - 🚧 Work in progress
+* ~~[Java | Asciidoc] [Add info/website for 3rd party libraries](https://github.com/hbelmiro/100DaysOfJava/issues/2)~~ - ✅ Done
 
 ## Other Issues
 
