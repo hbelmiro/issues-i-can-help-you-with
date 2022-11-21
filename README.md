@@ -12,6 +12,10 @@ If you prefer to validate your solution before sending the PR, [send me a messag
 
 These issues are good for people who have never contributed to the project the issue relates to.
 
+### Project: [quarkiverse / quarkus-openapi-generator](https://github.com/quarkiverse/quarkus-openapi-generator)
+
+* [Java] [Use dynamic port where possible in tests that use WireMock](https://github.com/quarkiverse/quarkus-openapi-generator/issues/180)
+
 ### Project: [hbelmiro / 100DaysOfJava](https://github.com/hbelmiro/100DaysOfJava)
 
 * ~~[Java | Asciidoc] [Add info/website for 3rd party libraries](https://github.com/hbelmiro/100DaysOfJava/issues/2)~~ - ✅ Done
