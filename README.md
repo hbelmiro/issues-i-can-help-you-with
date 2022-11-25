@@ -16,6 +16,10 @@ These issues are good for people who have never contributed to the project the i
 
 * [Java] [Use dynamic port where possible in tests that use WireMock](https://github.com/quarkiverse/quarkus-openapi-generator/issues/180)
 
+### Project: [openshift / openshift-docs](https://github.com/openshift/openshift-docs)
+
+* [Asciidoc] [Issue in file distr_tracing/distr_tracing_install/distr-tracing-installing.adoc](https://github.com/openshift/openshift-docs/issues/53021)
+
 ### Project: [hbelmiro / 100DaysOfJava](https://github.com/hbelmiro/100DaysOfJava)
 
 * ~~[Java | Asciidoc] [Add info/website for 3rd party libraries](https://github.com/hbelmiro/100DaysOfJava/issues/2)~~ - ✅ Done
