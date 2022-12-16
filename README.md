@@ -14,7 +14,7 @@ These issues are good for people who have never contributed to the project the i
 
 ### Project: [openshift / openshift-docs](https://github.com/openshift/openshift-docs)
 
-* [Asciidoc] [Issue in file distr_tracing/distr_tracing_install/distr-tracing-installing.adoc](https://github.com/openshift/openshift-docs/issues/53021)
+* ~~[Asciidoc] [Issue in file distr_tracing/distr_tracing_install/distr-tracing-installing.adoc](https://github.com/openshift/openshift-docs/issues/53021)~~ - ✅ Done
 
 ### Project: [quarkiverse / quarkus-openapi-generator](https://github.com/quarkiverse/quarkus-openapi-generator)
 
