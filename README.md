@@ -12,6 +12,10 @@ If you prefer to validate your solution before sending the PR, [send me a messag
 
 These issues are good for people who have never contributed to the project the issue relates to.
 
+### Project: [kiegroup / process-migration-service](https://github.com/kiegroup/process-migration-service)
+
+* [Java] [Replace `Thread.sleep` calls in tests of PIM with Awaitility](https://issues.redhat.com/browse/JBPM-10149)
+
 ### Project: [openshift / openshift-docs](https://github.com/openshift/openshift-docs)
 
 * ~~[Asciidoc] [Issue in file distr_tracing/distr_tracing_install/distr-tracing-installing.adoc](https://github.com/openshift/openshift-docs/issues/53021)~~ - ✅ Done
