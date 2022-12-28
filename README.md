@@ -12,6 +12,11 @@ If you prefer to validate your solution before sending the PR, [send me a messag
 
 These issues are good for people who have never contributed to the project the issue relates to.
 
+### Project: [quarkiverse / quarkus-openapi-generator](https://github.com/quarkiverse/quarkus-openapi-generator)
+
+* [Asciidoc] [Migrate README.md to quarkiverse-docs](https://github.com/quarkiverse/quarkus-openapi-generator/issues/213)
+* ~~[Java] [Use dynamic port where possible in tests that use WireMock](https://github.com/quarkiverse/quarkus-openapi-generator/issues/180)~~ - ✅ Done
+
 ### Project: [kiegroup / process-migration-service](https://github.com/kiegroup/process-migration-service)
 
 * [Java] [Replace `Thread.sleep` calls in tests of PIM with Awaitility](https://issues.redhat.com/browse/JBPM-10149)
@@ -19,10 +24,6 @@ These issues are good for people who have never contributed to the project the i
 ### Project: [openshift / openshift-docs](https://github.com/openshift/openshift-docs)
 
 * ~~[Asciidoc] [Issue in file distr_tracing/distr_tracing_install/distr-tracing-installing.adoc](https://github.com/openshift/openshift-docs/issues/53021)~~ - ✅ Done
-
-### Project: [quarkiverse / quarkus-openapi-generator](https://github.com/quarkiverse/quarkus-openapi-generator)
-
-* ~~[Java] [Use dynamic port where possible in tests that use WireMock](https://github.com/quarkiverse/quarkus-openapi-generator/issues/180)~~ - ✅ Done
 
 ### Project: [hbelmiro / 100DaysOfJava](https://github.com/hbelmiro/100DaysOfJava)
 
