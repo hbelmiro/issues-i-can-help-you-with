@@ -15,6 +15,7 @@ These issues are good for people who have never contributed to the project the i
 ### Project: [quarkiverse / quarkus-openapi-generator](https://github.com/quarkiverse/quarkus-openapi-generator)
 
 * [Asciidoc] [Migrate README.md to quarkiverse-docs](https://github.com/quarkiverse/quarkus-openapi-generator/issues/213)
+* [Java] [Replace `io.quarkus.arc.Priority` it with `jakarta.annotation.Priority` due to deprecation](https://github.com/quarkiverse/quarkus-openapi-generator/issues/272)
 * ~~[Java] [Use dynamic port where possible in tests that use WireMock](https://github.com/quarkiverse/quarkus-openapi-generator/issues/180)~~ - ✅ Done
 
 ### Project: [openshift / openshift-docs](https://github.com/openshift/openshift-docs)
