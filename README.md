@@ -33,7 +33,7 @@ These issues are good for people who have never contributed to the project the i
 * [Java] [Authentication Bearer not matching paths](https://github.com/quarkiverse/quarkus-openapi-generator/issues/304)
 * [Java] [Support any inner generator property in quarkus.openapi-generator.codegen](https://github.com/quarkiverse/quarkus-openapi-generator/issues/124)
 * [Java | Markdown] [Generate a markdown documentation with all the possible configuration for a given OpenAPI spec input](https://github.com/quarkiverse/quarkus-openapi-generator/issues/57)
-* [Java] [Change `OpenApiGeneratorCodeGenBase#shouldRun` to throw an exception rather than return `false`](https://github.com/quarkiverse/quarkus-openapi-generator/issues/192)
+* ~~[Java] [Change `OpenApiGeneratorCodeGenBase#shouldRun` to throw an exception rather than return `false`](https://github.com/quarkiverse/quarkus-openapi-generator/issues/192)~~ - ✅ Done
 
 ### Project: [kiegroup / kogito-examples](https://github.com/kiegroup/kogito-examples)
 
