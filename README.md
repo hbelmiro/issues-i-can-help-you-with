@@ -24,6 +24,7 @@ These issues are good for people who have never contributed to the project the i
 ### Project: [hbelmiro / 100DaysOfJava](https://github.com/hbelmiro/100DaysOfJava)
 
 * [Java] [Convert examples to JUnit tests](https://github.com/hbelmiro/100DaysOfJava/issues/6)
+* [Java] [Manage dependencies in the parent pom.xml](https://github.com/hbelmiro/100DaysOfJava/issues/11)
 * ~~[Java | Asciidoc] [Add info/website for 3rd party libraries](https://github.com/hbelmiro/100DaysOfJava/issues/2)~~ - ✅ Done
 
 ## Other Issues
