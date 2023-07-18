@@ -15,7 +15,7 @@ These issues are good for people who have never contributed to the project the i
 ### Project: [quarkiverse / quarkus-openapi-generator](https://github.com/quarkiverse/quarkus-openapi-generator)
 
 * [Java] [Config-Request: customize configKey name](https://github.com/quarkiverse/quarkus-openapi-generator/issues/363)
-* [GitHub Actions] [Add the "Close Stale Issues" GitHub Action](https://github.com/quarkiverse/quarkus-openapi-generator/issues/390)
+* ~~[GitHub Actions] [Add the "Close Stale Issues" GitHub Action](https://github.com/quarkiverse/quarkus-openapi-generator/issues/390)~~ - ✅ Done
 * ~~[Java] [Replace `io.quarkus.arc.Priority` it with `jakarta.annotation.Priority` due to deprecation](https://github.com/quarkiverse/quarkus-openapi-generator/issues/272)~~ - ✅ Done
 * ~~[Java] [Use dynamic port where possible in tests that use WireMock](https://github.com/quarkiverse/quarkus-openapi-generator/issues/180)~~ - ✅ Done
 
