@@ -38,7 +38,7 @@ These issues are good for people who have never contributed to the project the i
 ### Project: [quarkiverse / quarkus-openapi-generator](https://github.com/quarkiverse/quarkus-openapi-generator) 
 
 * ~~[Java] [Add CI checks for Java 17](https://github.com/quarkiverse/quarkus-openapi-generator/issues/312)~~ - ✅ Done
-* [Java] [Authentication Bearer not matching paths](https://github.com/quarkiverse/quarkus-openapi-generator/issues/304)
+* ~~[Java] [Authentication Bearer not matching paths](https://github.com/quarkiverse/quarkus-openapi-generator/issues/304)~~ - ✅ Done
 * [Java] [Support any inner generator property in quarkus.openapi-generator.codegen](https://github.com/quarkiverse/quarkus-openapi-generator/issues/124)
 * [Java | Markdown] [Generate a markdown documentation with all the possible configuration for a given OpenAPI spec input](https://github.com/quarkiverse/quarkus-openapi-generator/issues/57)
 * ~~[Java] [Change `OpenApiGeneratorCodeGenBase#shouldRun` to throw an exception rather than return `false`](https://github.com/quarkiverse/quarkus-openapi-generator/issues/192)~~ - ✅ Done
