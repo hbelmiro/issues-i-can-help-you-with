@@ -44,7 +44,7 @@ These issues are good for people who have never contributed to the project the i
 * [Java | Markdown] [Generate a markdown documentation with all the possible configuration for a given OpenAPI spec input](https://github.com/quarkiverse/quarkus-openapi-generator/issues/57)
 * ~~[Java] [Change `OpenApiGeneratorCodeGenBase#shouldRun` to throw an exception rather than return `false`](https://github.com/quarkiverse/quarkus-openapi-generator/issues/192)~~ - ✅ Done
 
-### Project: [kiegroup / kogito-examples](https://github.com/kiegroup/kogito-examples)
+### Project: [apache / incubator-kie-kogito-examples](https://github.com/apache/incubator-kie-kogito-examples)
 
 * ~~[Java] [Create test for serverless-workflow-examples/serverless-workflow-annotations-description](https://issues.redhat.com/browse/KOGITO-9032)~~ - ✅ Done
 
