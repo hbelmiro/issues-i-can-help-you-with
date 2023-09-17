@@ -46,7 +46,7 @@ These issues are good for people who have never contributed to the project the i
 
 ### Project: [kiegroup / kogito-examples](https://github.com/kiegroup/kogito-examples)
 
-* [Java] [Create test for serverless-workflow-examples/serverless-workflow-annotations-description](https://issues.redhat.com/browse/KOGITO-9032)
+* ~~[Java] [Create test for serverless-workflow-examples/serverless-workflow-annotations-description](https://issues.redhat.com/browse/KOGITO-9032)~~ - ✅ Done
 
 ### Project: [kiegroup / jbpm](https://github.com/kiegroup/jbpm) 
 
