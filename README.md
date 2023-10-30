@@ -39,6 +39,7 @@ These issues are good for people who have never contributed to the project the i
 
 ### Project: [quarkiverse / quarkus-openapi-generator](https://github.com/quarkiverse/quarkus-openapi-generator) 
 
+* [Java] [add quarkus code starter](https://github.com/quarkiverse/quarkus-openapi-generator/issues/542)
 * [Java] [Create a new pipeline to update the docs with the latest release](https://github.com/quarkiverse/quarkus-openapi-generator/issues/540)
 * [Java] [Support any inner generator property in quarkus.openapi-generator.codegen](https://github.com/quarkiverse/quarkus-openapi-generator/issues/124)
 * [Java | Markdown] [Generate a markdown documentation with all the possible configuration for a given OpenAPI spec input](https://github.com/quarkiverse/quarkus-openapi-generator/issues/57)
