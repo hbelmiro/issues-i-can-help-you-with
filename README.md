@@ -28,8 +28,8 @@ These issues are good for people who have never contributed to the project the i
 
 ### Project: [quarkiverse/quarkus-openapi-generator](https://github.com/quarkiverse/quarkus-openapi-generator)
 
-* [GitHub Actions] [Don't deploy doc previews in PRs that don't change docs](https://github.com/quarkiverse/quarkus-openapi-generator/issues/603)
 * [Java] [is there a way to have parameters documented in generated java doc ?](https://github.com/quarkiverse/quarkus-openapi-generator/issues/550)
+* ~~[GitHub Actions] [Don't deploy doc previews in PRs that don't change docs](https://github.com/quarkiverse/quarkus-openapi-generator/issues/603)~~ - ✅ Done
 * ~~[Java] [Config-Request: customize configKey name](https://github.com/quarkiverse/quarkus-openapi-generator/issues/363)~~ - ✅ Done
 * ~~[Java] [SUFFIX and PREFIX on generated classes](https://github.com/quarkiverse/quarkus-openapi-generator/issues/471)~~ - ✅ Done
 * ~~[GitHub Actions] [Add the "Close Stale Issues" GitHub Action](https://github.com/quarkiverse/quarkus-openapi-generator/issues/390)~~ - ✅ Done
