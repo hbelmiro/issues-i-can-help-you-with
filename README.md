@@ -14,6 +14,7 @@ These issues are good for people who have never contributed to the project the i
 
 ### Project: [opendatahub-io/data-science-pipelines-operator](https://github.com/opendatahub-io/data-science-pipelines-operator)
 
+* [Go] V2 - [Throw a user-friendly error when S3CredentialSecret.SecretName has an invalid value](https://github.com/opendatahub-io/data-science-pipelines-operator/issues/523)
 * [Markdown] [Replace OpenShift Pipelines with Argo Workflows in v2 requirements](https://github.com/opendatahub-io/data-science-pipelines-operator/issues/522)
 
 ### Project: [hbelmiro/100DaysOfJava](https://github.com/hbelmiro/100DaysOfJava)
