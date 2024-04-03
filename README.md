@@ -29,7 +29,7 @@ These issues are good for people who have never contributed to the project the i
 
 ### Project: [quarkiverse/quarkus-openapi-generator](https://github.com/quarkiverse/quarkus-openapi-generator)
 
-* ~~[Documentation] [Yaml file not accepted as openapi descriptor](https://github.com/quarkiverse/quarkus-openapi-generator/issues/693)
+* [Documentation] [Yaml file not accepted as openapi descriptor](https://github.com/quarkiverse/quarkus-openapi-generator/issues/693)
 * ~~[Java] [is there a way to have parameters documented in generated java doc ?](https://github.com/quarkiverse/quarkus-openapi-generator/issues/550)~~ - ✅ Done
 * ~~[GitHub Actions] [Don't deploy doc previews in PRs that don't change docs](https://github.com/quarkiverse/quarkus-openapi-generator/issues/603)~~ - ✅ Done
 * ~~[Java] [Config-Request: customize configKey name](https://github.com/quarkiverse/quarkus-openapi-generator/issues/363)~~ - ✅ Done
