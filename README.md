@@ -15,7 +15,7 @@ These issues are good for people who have never contributed to the project the i
 ### Project: [opendatahub-io/data-science-pipelines-operator](https://github.com/opendatahub-io/data-science-pipelines-operator)
 
 * [Go] V2 - [Throw a user-friendly error when S3CredentialSecret.SecretName has an invalid value](https://github.com/opendatahub-io/data-science-pipelines-operator/issues/523)
-* ~~[Markdown] [Replace OpenShift Pipelines with Argo Workflows in v2 requirements](https://github.com/opendatahub-io/data-science-pipelines-operator/issues/522)~~ - ✅ Done
+* ~~[Documentation] [Replace OpenShift Pipelines with Argo Workflows in v2 requirements](https://github.com/opendatahub-io/data-science-pipelines-operator/issues/522)~~ - ✅ Done
 
 ### Project: [hbelmiro/100DaysOfJava](https://github.com/hbelmiro/100DaysOfJava)
 
@@ -29,6 +29,7 @@ These issues are good for people who have never contributed to the project the i
 
 ### Project: [quarkiverse/quarkus-openapi-generator](https://github.com/quarkiverse/quarkus-openapi-generator)
 
+* ~~[Documentation] [Yaml file not accepted as openapi descriptor](https://github.com/quarkiverse/quarkus-openapi-generator/issues/693)
 * ~~[Java] [is there a way to have parameters documented in generated java doc ?](https://github.com/quarkiverse/quarkus-openapi-generator/issues/550)~~ - ✅ Done
 * ~~[GitHub Actions] [Don't deploy doc previews in PRs that don't change docs](https://github.com/quarkiverse/quarkus-openapi-generator/issues/603)~~ - ✅ Done
 * ~~[Java] [Config-Request: customize configKey name](https://github.com/quarkiverse/quarkus-openapi-generator/issues/363)~~ - ✅ Done
@@ -48,7 +49,7 @@ These issues are good for people who have never contributed to the project the i
 * ~~[Java] [add quarkus code starter](https://github.com/quarkiverse/quarkus-openapi-generator/issues/542)~~ - ✅ Done
 * [Java] [Create a new pipeline to update the docs with the latest release](https://github.com/quarkiverse/quarkus-openapi-generator/issues/540)
 * [Java] [Support any inner generator property in quarkus.openapi-generator.codegen](https://github.com/quarkiverse/quarkus-openapi-generator/issues/124)
-* [Java | Markdown] [Generate a markdown documentation with all the possible configuration for a given OpenAPI spec input](https://github.com/quarkiverse/quarkus-openapi-generator/issues/57)
+* [Java | Documentation] [Generate a markdown documentation with all the possible configuration for a given OpenAPI spec input](https://github.com/quarkiverse/quarkus-openapi-generator/issues/57)
 * ~~[Java] [Add CI checks for Java 17](https://github.com/quarkiverse/quarkus-openapi-generator/issues/312)~~ - ✅ Done
 * ~~[Java] [Authentication Bearer not matching paths](https://github.com/quarkiverse/quarkus-openapi-generator/issues/304)~~ - ✅ Done
 * ~~[Java] [Change `OpenApiGeneratorCodeGenBase#shouldRun` to throw an exception rather than return `false`](https://github.com/quarkiverse/quarkus-openapi-generator/issues/192)~~ - ✅ Done
