@@ -14,14 +14,16 @@ These issues are good for people who have never contributed to the project the i
 
 ### Project: [opendatahub-io/data-science-pipelines-operator](https://github.com/opendatahub-io/data-science-pipelines-operator)
 
-* [Go] V2 - [Throw a user-friendly error when S3CredentialSecret.SecretName has an invalid value](https://github.com/opendatahub-io/data-science-pipelines-operator/issues/523)
+* [Go] [V2 - Throw a user-friendly error when S3CredentialSecret.SecretName has an invalid value](https://issues.redhat.com/browse/RHOAIENG-1719)
+* [Go] [make all doesn't update artifacts in data-science-pipelines-operator](https://issues.redhat.com/browse/RHOAIENG-4270)
+* [Go] [Check if make artifacts changes any files on CI](https://issues.redhat.com/browse/RHOAIENG-5485)
 * ~~[Documentation] [Replace OpenShift Pipelines with Argo Workflows in v2 requirements](https://github.com/opendatahub-io/data-science-pipelines-operator/issues/522)~~ - ✅ Done
 
 ### Project: [hbelmiro/100DaysOfJava](https://github.com/hbelmiro/100DaysOfJava)
 
 * [Java] [Convert examples to JUnit tests](https://github.com/hbelmiro/100DaysOfJava/issues/6)
 * ~~[Java] [Manage dependencies in the parent pom.xml](https://github.com/hbelmiro/100DaysOfJava/issues/11)~~ - ✅ Done
-* ~~[Java | Asciidoc] [Add info/website for 3rd party libraries](https://github.com/hbelmiro/100DaysOfJava/issues/2)~~ - ✅ Done
+* ~~[Java | Documentation] [Add info/website for 3rd party libraries](https://github.com/hbelmiro/100DaysOfJava/issues/2)~~ - ✅ Done
 
 ### Project: [quarkiverse/quarkus-reactive-messaging-http](https://github.com/quarkiverse/quarkus-reactive-messaging-http)
 
@@ -40,7 +42,7 @@ These issues are good for people who have never contributed to the project the i
 
 ### Project: [openshift/openshift-docs](https://github.com/openshift/openshift-docs)
 
-* ~~[Asciidoc] [Issue in file distr_tracing/distr_tracing_install/distr-tracing-installing.adoc](https://github.com/openshift/openshift-docs/issues/53021)~~ - ✅ Done
+* ~~[Documentation] [Issue in file distr_tracing/distr_tracing_install/distr-tracing-installing.adoc](https://github.com/openshift/openshift-docs/issues/53021)~~ - ✅ Done
 
 ## Other Issues
 
