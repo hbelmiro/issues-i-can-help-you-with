@@ -20,6 +20,7 @@ These issues are good for people who have never contributed to the project the i
 
 ### Project: [opendatahub-io/data-science-pipelines-operator](https://github.com/opendatahub-io/data-science-pipelines-operator)
 
+* [Go] [Enable sample pipeline for all DSPA configuration samples](https://issues.redhat.com/browse/RHOAIENG-6580)
 * [Go] [V2 - Throw a user-friendly error when S3CredentialSecret.SecretName has an invalid value](https://issues.redhat.com/browse/RHOAIENG-1719)
 * [Go] [make all doesn't update artifacts in data-science-pipelines-operator](https://issues.redhat.com/browse/RHOAIENG-4270)
 * [Go] [Check if make artifacts changes any files on CI](https://issues.redhat.com/browse/RHOAIENG-5485)
