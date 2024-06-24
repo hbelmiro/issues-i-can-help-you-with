@@ -16,7 +16,7 @@ These issues are good for people who have never contributed to the project the i
 
 * [Documentation] [Add content to the Kubeflow Pipelines V2 installation page](https://github.com/kubeflow/website/issues/3714)
 * [Documentation] [Document that is possible to upload a .zip or .tar.gz file as a pipeline](https://github.com/kubeflow/website/issues/3715)
-* [Documentation] [Review the structure of the docs and the not-implemented feature notes to reflect Kubeflow 1.9](https://github.com/kubeflow/website/issues/3716)
+* ~~[Documentation] [Review the structure of the docs and the not-implemented feature notes to reflect Kubeflow 1.9](https://github.com/kubeflow/website/issues/3716)~~ - ✅ Done
 
 ### Project: [opendatahub-io/data-science-pipelines-operator](https://github.com/opendatahub-io/data-science-pipelines-operator)
 
