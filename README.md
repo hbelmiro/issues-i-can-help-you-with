@@ -14,13 +14,13 @@ These issues are good for people who have never contributed to the project the i
 
 ### Project: [kubeflow/website](https://github.com/kubeflow/website)
 
-* [Documentation] [Add content to the Kubeflow Pipelines V2 installation page](https://github.com/kubeflow/website/issues/3714)
-* [Documentation] [Document that is possible to upload a .zip or .tar.gz file as a pipeline](https://github.com/kubeflow/website/issues/3715)
+* ~~[Documentation] [Add content to the Kubeflow Pipelines V2 installation page](https://github.com/kubeflow/website/issues/3714)~~ - ✅ Done
+* ~~[Documentation] [Document that is possible to upload a .zip or .tar.gz file as a pipeline](https://github.com/kubeflow/website/issues/3715)~~ - ✅ Done
 * ~~[Documentation] [Review the structure of the docs and the not-implemented feature notes to reflect Kubeflow 1.9](https://github.com/kubeflow/website/issues/3716)~~ - ✅ Done
 
 ### Project: [opendatahub-io/data-science-pipelines-operator](https://github.com/opendatahub-io/data-science-pipelines-operator)
 
-* [Go] [Enable sample pipeline for all DSPA configuration samples](https://issues.redhat.com/browse/RHOAIENG-6580)
+* ~~[Go] [Enable sample pipeline for all DSPA configuration samples](https://issues.redhat.com/browse/RHOAIENG-6580)~~ - ✅ Done
 * [Go] [V2 - Throw a user-friendly error when S3CredentialSecret.SecretName has an invalid value](https://issues.redhat.com/browse/RHOAIENG-1719)
 * [Go] [make all doesn't update artifacts in data-science-pipelines-operator](https://issues.redhat.com/browse/RHOAIENG-4270)
 * [Go] [Check if make artifacts changes any files on CI](https://issues.redhat.com/browse/RHOAIENG-5485)
