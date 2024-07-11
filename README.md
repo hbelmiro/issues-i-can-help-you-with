@@ -41,6 +41,10 @@ These issues are good for people who have never contributed to the project the i
 
 * [GitHub Actions] [Upgrade release.yml to using Environment Files](https://github.com/quarkiverse/quarkus-reactive-messaging-http/issues/180)
 
+### Project: [hbelmiro/kgrep](https://github.com/hbelmiro/kgrep)
+
+* [Java] [Allow to search in more than one namespace](https://github.com/hbelmiro/kgrep/issues/18)
+
 ### Project: [hbelmiro/100DaysOfJava](https://github.com/hbelmiro/100DaysOfJava)
 
 * [Java] [Convert examples to JUnit tests](https://github.com/hbelmiro/100DaysOfJava/issues/6)
@@ -52,6 +56,10 @@ These issues are good for people who have never contributed to the project the i
 * ~~[Documentation] [Issue in file distr_tracing/distr_tracing_install/distr-tracing-installing.adoc](https://github.com/openshift/openshift-docs/issues/53021)~~ - ✅ Done
 
 ## Other Issues
+
+### Project: [kubeflow/pipelines](https://github.com/kubeflow/pipelines)
+
+* [GitHub Actions] [The /ok-to-test command doesn't trigger GitHub Actions tests](https://github.com/kubeflow/pipelines/issues/10981)
 
 ### Project: [quarkiverse/quarkus-openapi-generator](https://github.com/quarkiverse/quarkus-openapi-generator) 
 
