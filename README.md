@@ -20,15 +20,15 @@ These issues are good for people who have never contributed to the project the i
 
 ### Project: [opendatahub-io/data-science-pipelines-operator](https://github.com/opendatahub-io/data-science-pipelines-operator)
 
-* ~~[Go] [Enable sample pipeline for all DSPA configuration samples](https://issues.redhat.com/browse/RHOAIENG-6580)~~ - ✅ Done
-* [Go] [V2 - Throw a user-friendly error when S3CredentialSecret.SecretName has an invalid value](https://issues.redhat.com/browse/RHOAIENG-1719)
 * [Go] [make all doesn't update artifacts in data-science-pipelines-operator](https://issues.redhat.com/browse/RHOAIENG-4270)
 * [Go] [Check if make artifacts changes any files on CI](https://issues.redhat.com/browse/RHOAIENG-5485)
+* ~~[Go] [Enable sample pipeline for all DSPA configuration samples](https://issues.redhat.com/browse/RHOAIENG-6580)~~ - ✅ Done
+* ~~[Go] [V2 - Throw a user-friendly error when S3CredentialSecret.SecretName has an invalid value](https://issues.redhat.com/browse/RHOAIENG-1719)~~ - ✅ Done
 * ~~[Documentation] [Replace OpenShift Pipelines with Argo Workflows in v2 requirements](https://github.com/opendatahub-io/data-science-pipelines-operator/issues/522)~~ - ✅ Done
 
 ### Project: [quarkiverse/quarkus-openapi-generator](https://github.com/quarkiverse/quarkus-openapi-generator)
 
-* [Documentation] [Yaml file not accepted as openapi descriptor](https://github.com/quarkiverse/quarkus-openapi-generator/issues/693)
+* ~~[Documentation] [Yaml file not accepted as openapi descriptor](https://github.com/quarkiverse/quarkus-openapi-generator/issues/693)~~ - ✅ Done
 * ~~[Java] [is there a way to have parameters documented in generated java doc ?](https://github.com/quarkiverse/quarkus-openapi-generator/issues/550)~~ - ✅ Done
 * ~~[GitHub Actions] [Don't deploy doc previews in PRs that don't change docs](https://github.com/quarkiverse/quarkus-openapi-generator/issues/603)~~ - ✅ Done
 * ~~[Java] [Config-Request: customize configKey name](https://github.com/quarkiverse/quarkus-openapi-generator/issues/363)~~ - ✅ Done
@@ -74,7 +74,3 @@ These issues are good for people who have never contributed to the project the i
 ### Project: [apache/incubator-kie-kogito-examples](https://github.com/apache/incubator-kie-kogito-examples)
 
 * ~~[Java] [Create test for serverless-workflow-examples/serverless-workflow-annotations-description](https://issues.redhat.com/browse/KOGITO-9032)~~ - ✅ Done
-
-### Project: [kiegroup/jbpm](https://github.com/kiegroup/jbpm) 
-
-* [Java] ["no main manifest attribute" error when running ./launch.sh](https://issues.redhat.com/browse/JBPM-10121)
