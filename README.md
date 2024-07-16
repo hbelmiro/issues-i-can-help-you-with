@@ -39,7 +39,7 @@ These issues are good for people who have never contributed to the project the i
 
 ### Project: [quarkiverse/quarkus-reactive-messaging-http](https://github.com/quarkiverse/quarkus-reactive-messaging-http)
 
-* [GitHub Actions] [Upgrade release.yml to using Environment Files](https://github.com/quarkiverse/quarkus-reactive-messaging-http/issues/180)
+* ~~[GitHub Actions] [Upgrade release.yml to using Environment Files](https://github.com/quarkiverse/quarkus-reactive-messaging-http/issues/180)~~ - ✅ Done
 
 ### Project: [hbelmiro/kgrep](https://github.com/hbelmiro/kgrep)
 
