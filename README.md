@@ -43,6 +43,7 @@ These issues are good for people who have never contributed to the project the i
 
 ### Project: [hbelmiro/kgrep](https://github.com/hbelmiro/kgrep)
 
+* [Java] [Make namespace optional](https://github.com/hbelmiro/kgrep/issues/57)
 * [Java] [Allow to search in more than one namespace](https://github.com/hbelmiro/kgrep/issues/18)
 
 ### Project: [hbelmiro/100DaysOfJava](https://github.com/hbelmiro/100DaysOfJava)
