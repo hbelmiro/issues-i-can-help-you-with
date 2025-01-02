@@ -15,6 +15,7 @@ These issues are good for people who have never contributed to the project the i
 ### Project: [kubeflow/pipelines](https://github.com/kubeflow/pipelines)
 
 * [GitHub Actions] [Create make commands for running tests locally](https://github.com/kubeflow/pipelines/issues/11494)
+* [GitHub Actions] [Create a test to check whether requirements.txt was generated with pip-compile](https://github.com/kubeflow/pipelines/issues/11495)
 
 ### Project: [kubeflow/website](https://github.com/kubeflow/website)
 
