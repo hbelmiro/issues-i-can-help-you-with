@@ -12,6 +12,10 @@ If you prefer to validate your solution before sending the PR, [send me a messag
 
 These issues are good for people who have never contributed to the project the issue relates to.
 
+### Project: [kubeflow/pipelines](https://github.com/kubeflow/pipelines)
+
+* ~~[GitHub Actions] [Create make commands for running tests locally](https://github.com/kubeflow/pipelines/issues/11494)
+
 ### Project: [kubeflow/website](https://github.com/kubeflow/website)
 
 * ~~[Documentation] [Add content to the Kubeflow Pipelines V2 installation page](https://github.com/kubeflow/website/issues/3714)~~ - ✅ Done
@@ -61,7 +65,7 @@ These issues are good for people who have never contributed to the project the i
 ### Project: [kubeflow/pipelines](https://github.com/kubeflow/pipelines)
 
 * ~~[GitHub Actions] [Fail fast when image build fails on tests](https://github.com/kubeflow/pipelines/issues/11102)~~ - ✅ Done
-* [GitHub Actions] [The /ok-to-test command doesn't trigger GitHub Actions tests](https://github.com/kubeflow/pipelines/issues/10981)
+* ~~[GitHub Actions] [The /ok-to-test command doesn't trigger GitHub Actions tests](https://github.com/kubeflow/pipelines/issues/10981)~~ - ✅ Done
 
 ### Project: [quarkiverse/quarkus-openapi-generator](https://github.com/quarkiverse/quarkus-openapi-generator) 
 
